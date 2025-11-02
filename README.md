@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1396-count-servers-that-communicate](https://github.com/ahmet422/leetcodeDirect/tree/master/1396-count-servers-that-communicate) |
 | [1524-string-matching-in-an-array](https://github.com/ahmet422/leetcodeDirect/tree/master/1524-string-matching-in-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ahmet422/leetcodeDirect/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ahmet422/leetcodeDirect/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/ahmet422/leetcodeDirect/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Dynamic Programming
 |  |
@@ -48,8 +49,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ahmet422/leetcodeDirect/tree/master/1396-count-servers-that-communicate) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ahmet422/leetcodeDirect/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Counting
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/ahmet422/leetcodeDirect/tree/master/1396-count-servers-that-communicate) |
+## Simulation
+|  |
+| ------- |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/ahmet422/leetcodeDirect/tree/master/2343-count-unguarded-cells-in-the-grid) |
 <!---LeetCode Topics End-->
